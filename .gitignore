@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+.venv/
+venv/
+mnist_train.csv
+mnist_test.csv
+mnist_train.csv
+mnist_test.csv
+.DS_Store
+.ipynb_checkpoints/
